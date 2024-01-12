@@ -241,3 +241,5 @@ pyrightconfig.json
 .xlsx
 .csv
 .zip
+.json
+.txt
