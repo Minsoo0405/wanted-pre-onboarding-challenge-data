@@ -1,0 +1,16 @@
+따릉이 대여 데이터 링크
+https://www.kaggle.com/datasets/willianoliveiragibin/bike-seoul-sharing/data
+https://data.seoul.go.kr/dataList/OA-13252/F/1/datasetView.do
+https://data.seoul.go.kr/dataList/OA-14994/F/1/datasetView.do
+https://data.seoul.go.kr/dataList/OA-15182/F/1/datasetView.do
+https://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do
+https://data.seoul.go.kr/dataList/OA-15493/A/1/datasetView.do
+
+따릉이 대여 현황 지도 만들기(블로그)
+https://silvercoding.tistory.com/61
+
+날씨 데이터 
+https://data.kma.go.kr/data/rmt/rmtList.do?code=400&pgmNo=570#
+
+따릉이 대여이력 정보
+https://data.seoul.go.kr/dataList/OA-15182/F/1/datasetView.do#
