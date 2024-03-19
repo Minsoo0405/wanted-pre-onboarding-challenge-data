@@ -14,3 +14,6 @@ https://data.kma.go.kr/data/rmt/rmtList.do?code=400&pgmNo=570#
 
 따릉이 대여이력 정보
 https://data.seoul.go.kr/dataList/OA-15182/F/1/datasetView.do#
+
+날씨 추가 데이터 - 추가컬럼(기온, 일 일조일사, 일 평균풍속풍향 등)
+http://data.kma.go.kr/climate/RankState/selectRankStatisticsDivisionList.do?pgmNo=179
