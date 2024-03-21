@@ -245,3 +245,5 @@ pyrightconfig.json
 .txt
 
 *.csv
+
+Data_Challenge_Project/secrets.json
